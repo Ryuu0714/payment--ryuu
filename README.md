@@ -1,2 +1,2 @@
-# payment--ryuu
+# payment-ryuu
 Link Pembayaran 
